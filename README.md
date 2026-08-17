@@ -11,3 +11,11 @@
 ```
 node index.js
 ```
+
+## Запуск тестов
+
+Требуется node.js
+
+```
+node test-worker.js
+```
